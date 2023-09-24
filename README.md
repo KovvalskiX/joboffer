@@ -1,2 +1,2 @@
-Russian: [[ru.md]]
-English: [[en.md]]
+[Russian version](ru.md)
+[English version](en.md)

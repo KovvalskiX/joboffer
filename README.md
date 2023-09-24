@@ -1,7 +1,7 @@
-[Russian version](ru.md)
+[English version](en.md)
 
 
 ----
 
 
-[English version](en.md)
+[Russian version](ru.md)

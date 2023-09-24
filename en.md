@@ -40,8 +40,13 @@ IDEs: _PyCharm, VS Code, DataGrip_
 _mostly telegram bots_
 
 https://t.me/mikoshibot | GPT
+
 https://t.me/detlektorbot | SD, GPT
+
 https://t.me/smart_ushi_bot | Web3
+
 https://t.me/aidrivebot  | GPT
+
 https://t.me/AIAssistants_Bot | GPT
+
 Contributor of https://github.com/Purpursarkans/OurMegaGame

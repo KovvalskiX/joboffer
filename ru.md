@@ -7,7 +7,7 @@
 Telegram: https://t.me/kvvlski
 GitHub: https://github.com/KovvalskiX
 
-_Кратко: soft skills, python3 developer, ответственность, скорость обучение_
+_Кратко: soft skills, python3 developer, ответственность, скорость обучения_
 
 ## Обо мне
 
